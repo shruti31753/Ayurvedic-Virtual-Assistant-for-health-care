@@ -1,0 +1,10 @@
+1. NLP concepts(stemming, tokenization, bag of words)
+2. create training data 
+3. Pytorch model and traning 
+4. Save/load model and implement the chat 
+
+----Our Nlp preprocessing pipeline===
+1. tokenization
+2. lower + stem
+3. exclude punctuation charaters
+4. bag of words
